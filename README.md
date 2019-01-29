@@ -1,0 +1,1 @@
+GJR GARCH FTSE repo
